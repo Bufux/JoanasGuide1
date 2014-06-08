@@ -1,0 +1,17 @@
+<!--
+
+   Joana's Guide Atlas Suite, an instance map browser with a built in leveling guide
+   Compiled by Bennylava
+   Bennylavaed@gmail.com
+   Last Update: 05/27/2014
+
+-->
+
+<Bindings>
+	<Binding name="ATLAS_TOGGLE" header="ATLAS_TITLE">
+		Atlas_Toggle();
+	</Binding>
+	<Binding name="ATLAS_OPTIONS">
+		AtlasOptions_Toggle();
+	</Binding>
+</Bindings>
