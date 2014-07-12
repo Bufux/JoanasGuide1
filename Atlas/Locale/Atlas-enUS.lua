@@ -1027,12 +1027,11 @@ AtlasINTRO = {
 		GREY.." ";
 		GREY.." ";
 		GREY.."Hello, I play the Character".._RED.." Bennylava"..GREY.." on the Feenix server"..GREN.." Emerald Dream";
-		GREY.."This Addon was created for an easier way to access the guide, instead of having to minimize the game.";
+		GREY.."This Addon was created for an easier way to access the guide.";
+		GREN.."ALL ALLIANCE MAP CREDIT GOES TO Burger of Feenix:Emerald Dream.";
 		GREY.." ";
-		GREY.." ";
-		GREY.."For Any Issues, Corrections, Suggestions or Donations please contact me via";
-		GREY.."Email - "..GREN.."BennylavaED@gmail.com";
-		GREY.."In Game - "..GREN.."Bennylava";
+		GREY.."For Any Issues, Corrections, Suggestions";
+		GREY.."Visit the Issue Tracker on "..BLUE.."https://github.com/Doctorbeefy/JoanasGuide1";
 		GREY.." ";
 		_RED.."Color Chart";
 		BLUE.."NPC";
@@ -1051,6 +1050,8 @@ AtlasINTRO = {
 		_RED.._TAB.._TAB.._TAB.._TAB.."Coming Soon";
 		BLUE.._TAB.._TAB.._TAB.."Starting Alliance Leveling Guide W/O Maps";
 		BLUE.._TAB.._TAB.._TAB.."Class BIS Guide";
+
+
 	};	
 		};
 
@@ -3510,19 +3511,19 @@ AtlasLVX = {
 		GREY.."accept "..ORNG.."Discover Rolf’s Fate "..GREY.."if this doesn’t make you ding "..PURP.."8 "..GREY.."then grind that last tiny bit.";
 		GREY.."52) Go to the ".._RED.."murloc camp "..GREY.."at 79,55 and loot the "..GREN.."mangled body "..GREY.."there (might need a group, but usually"; 
 		GREY.."always people here) and turn in "..ORNG.."Discover Rolf’s Fate "..GREY.."accept "..ORNG.."Report to Thomas";
-		GREY.."1) Go south to 81,66 and turn in "..ORNG.."A Bundle of Trouble";
-		GREY.."2) Cross the road and go south and east and finish killing the "..BLUE.."bears "..GREY.."and "..BLUE.."wolves "..GREY.."for"; 
-		ORNG.."Protect the Frontier "..BLUE.."bears "..GREY.."are kinda scarce so you might have to search.";
-		GREY.."3) While doing this you can get some, if not all, of the "..GREN.."red bandannas "..GREY.."for "..ORNG.."Red Linen Goods "..GREY.."at 90,78";
-		GREY.."4) Go back to 73,72 near the bridge and turn in "..ORNG.."Protect the Frontier "..GREY.."and "..ORNG.."Report to Thomas "..GREY.."accept"; 
-		ORNG.."Deliver Thomas' Report"..GREY..".";
-		GREY.."5) Go down to the ".._RED.."pumpkin patch "..GREY.."at 69,78 and kill the rest of the "..BLUE.."defias "..GREY.."for "..ORNG.."Red Linen Goods";		
 
  };	 
  
  		k2 = {
 		ZoneName = "9-10";
 		Location = "Elywnn Forest";
+		GREY.."1) Go south to 81,66 and turn in "..ORNG.."A Bundle of Trouble";
+		GREY.."2) Cross the road and go south and east and finish killing the "..BLUE.."bears "..GREY.."and "..BLUE.."wolves "..GREY.."for"; 
+		ORNG.."Protect the Frontier "..BLUE.."bears "..GREY.."are kinda scarce so you might have to search.";
+		GREY.."3) While doing this you can get some, if not all, of the "..GREN.."red bandannas "..GREY.."for "..ORNG.."Red Linen Goods "..GREY.."at 90,78";
+		GREY.."4) Go back to 73,72 near the bridge and turn in "..ORNG.."Protect the Frontier "..GREY.."and "..ORNG.."Report to Thomas "..GREY.."accept"; 
+		ORNG.."Deliver Thomas' Report"..GREY..".";
+		GREY.."5) Go down to the ".._RED.."pumpkin patch "..GREY.."at 69,78 and kill the rest of the "..BLUE.."defias "..GREY.."for "..ORNG.."Red Linen Goods";	
 		GREY.."6) You might find "..GREN.."Furlbrow's Deed "..GREY.."on the "..BLUE.."defias "..GREY.."while you’re killing "..BLUE.."defias "..GREY.."just hold it for now.";
 		GREY.."7) Go to 79,68 and turn in "..ORNG.."Red Linen Goods "..GREY.."it should make you "..PURP.."lvl 9 "..GREY.."or bring you really close";
 		GREY.."8) Stop at the bridge again at 73,72 and accept "..ORNG.."Report to Gryan Stoutmantle "..GREY.."must be "..PURP.."9 "..GREY.."to accept";
@@ -3533,7 +3534,7 @@ AtlasLVX = {
 		GREY.."12) In the ".._RED.."blacksmith house "..GREY.."right here accept "..ORNG.."Elmore's Task "..GREY.."then get training";
 		GREY.."13) Run south to the ".._RED.."maclure vinyard "..GREY.."at 43,89 and turn in "..ORNG.."The Escape"..GREY..".";
 		GREY.."14) Run west to the ".._RED.."stonefield farm "..GREY.."at 34,84 and turn in "..ORNG.."Goldtooth"..GREY..".";
-		GREY.."15) Go NW to 34,74 and turn in "..ORNG.."Westbrook Garrison Needs Help! "..GREY.."accept "..ORNG.."Riverpaw Gnoll Bounty "..GREY.."You will"; 
+		GREY.."15) Go NW to 24,74 and turn in "..ORNG.."Westbrook Garrison Needs Help! "..GREY.."accept "..ORNG.."Riverpaw Gnoll Bounty "..GREY.."You will"; 
 		GREY.."also see the "..GREN.."wanted poster "..GREY.."and it’s the "..ORNG.."famous old hogger quest"..GREY..". He’s a tough lvl 11 elite and is not";
 		GREY.."easy so skip it, unless you have a group it’s up to you. Remember on new servers you’re probably";
 		GREY.."still within range of everyone so it shouldn’t be hard to get done.";
@@ -3568,19 +3569,19 @@ AtlasLVX = {
 		GREY.."16) Kick "..BLUE.."bartleby’s "..GREY.."ass then talk to him again and accept "..ORNG.."Bartleby's Mug "..GREY.."then turn it in behind you";
 		GREY.."and learn your defence.";
 		GREY.."17) Go into the ".._RED.."tram "..GREY.."at 63,8 and take it to ".._RED.."IF"..GREY..".";
-		GREY.."18) Once it stops accept "..ORNG.."Deeprun Rat Roundup "..GREY.."just collect "..GREN.."5 rats "..GREY.."and turn it in. You could skip this";
-		GREY.."and keep the "..GREN.."flute"..GREY..", It can really piss people off if you play it non stop around the ".._RED.."IF "..GREY.."bank."; 
-		_RED.."SKIP: "..ORNG.."Me Brother, Nipsy "..GREY.."unless you go back to ".._RED.."SW "..GREY.."on the ".._RED.."tram "..GREY.."because you get crap xp";
-		GREY.."19) Grab the "..GREN.."FP "..GREY.."at 55,47";
-		GREY.."20) After the "..BLUE.."rat "..GREY.."quest you should be real close to "..PURP.."Level 11"..GREY..".";
-		GREY.."21) Leave ".._RED.."IF "..GREY.."and head into ".._RED.."Dun Morogh"..GREY..".";
-		GREY.."22) Run east to 68,55 and accept "..ORNG.."The Public Servant"..GREY..".";	
 
  };	 
 
  		k4 = {
 		ZoneName = "10-11 (Part 2)";
 		Location = "Westfall";
+		GREY.."18) Once it stops accept "..ORNG.."Deeprun Rat Roundup "..GREY.."just collect "..GREN.."5 rats "..GREY.."and turn it in. You could skip this";
+		GREY.."and keep the "..GREN.."flute"..GREY..", It can really piss people off if you play it non stop around the ".._RED.."IF "..GREY.."bank."; 
+		_RED.."SKIP: "..ORNG.."Me Brother, Nipsy "..GREY.."unless you go back to ".._RED.."SW "..GREY.."on the ".._RED.."tram "..GREY.."because you get crap xp";
+		GREY.."19) Grab the "..GREN.."FP "..GREY.."at 55,47";
+		GREY.."20) After the "..BLUE.."rat "..GREY.."quest you should be real close to "..PURP.."Level 11"..GREY..".";
+		GREY.."21) Leave ".._RED.."IF "..GREY.."and head into ".._RED.."Dun Morogh"..GREY..".";
+		GREY.."22) Run east to 68,55 and accept "..ORNG.."The Public Servant"..GREY..".";
 		GREY.."23) Go behind him and accept "..ORNG.."Those Blasted Troggs!"..GREY..".";
 		GREY.."24) Go in the pit below and kill the "..BLUE.."troggs "..GREY.."here and in the cave for both quests then turn them back";
 		GREY.."in at 68,55";
@@ -3601,6 +3602,7 @@ AtlasLVX = {
 		GREY.."8) You should be "..PURP.."Level 12 "..GREY.."now or close to it. You can grind if you’d like but it doesn’t matter much."; 
 		GREY.."Follow the "..BLUE.."Night Elf "..GREY.."to ".._RED.."IF "..GREY.."guide but just go backwards. You’re going to go north through the ".._RED.."wetlands";
 		GREY.."to ".._RED.."menethil"..GREY..", then boat to ".._RED.."auberdine "..GREY.."from here.";	
+		_RED.."STAY ON THE PATH. BE CAREFUL!!!";
 
  };	  
  
